@@ -36,6 +36,14 @@ go run main.go
 
 You may use a REST client like [Postman](https://www.postman.com/) to test the API endpoints.
 
+## Demo
+
+
+https://github.com/taham8875/book-api/assets/92264237/29a979c9-6b38-4ab4-87c3-8ac455c28bd9
+
+
+
+
 ## API Endpoints
 
 | Endpoint | Method | Description |
